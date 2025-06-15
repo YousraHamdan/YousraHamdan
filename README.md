@@ -1,11 +1,3 @@
-<!-- Pink Floral Header -->
-<div align="center">
-  <img src="https://i.imgur.com/MsZQM6A.png" alt="Floral Banner" width="100%"/>
-</div>
-
-<!-- Main Title with Sparkles -->
-<h1 align="center">✨ Yousra Hamdan ✨</h1>
-
 <!-- Animated Typing Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
