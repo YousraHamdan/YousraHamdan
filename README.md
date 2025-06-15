@@ -63,7 +63,7 @@
 <!-- Social Links with Flower Icons -->
 <h2 align="center">🌸 Let's Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/yousra-hamdan/" target="_blank">
+  <a href="[https://www.linkedin.com/in/yousra-hamdan/](https://www.linkedin.com/in/yousra-hamdan-4a0818333/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:hmyousra2004@gmail.com" target="_blank">
