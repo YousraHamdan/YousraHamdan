@@ -68,6 +68,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousraHamdan&layout=compact&theme=dracula&hide_border=true&bg_color=FFEEF4&title_color=FF69B4&text_color=59336C" alt="Top Languages" />
 </div>
 
+<!-- Footer with Flowers -->
+<div align="center">
+  <img src="https://i.imgur.com/9E6Q3yK.png" width="100%" height="30px"/>
+  <p>Thank you for visiting my profile! Have a wonderful day! 💖</p>
+  <img src="https://komarev.com/ghpvc/?username=YousraHamdan&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
+</div>
+
 <!-- Time Distribution Pie Chart -->
 <h2 align="center">⏳ My Time Distribution</h2>
 
@@ -80,9 +87,4 @@ pie
     "DevOps" : 10
 
 
-<!-- Footer with Flowers -->
-<div align="center">
-  <img src="https://i.imgur.com/9E6Q3yK.png" width="100%" height="30px"/>
-  <p>Thank you for visiting my profile! Have a wonderful day! 💖</p>
-  <img src="https://komarev.com/ghpvc/?username=YousraHamdan&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
-</div>
+
