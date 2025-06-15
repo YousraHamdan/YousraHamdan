@@ -78,3 +78,11 @@ pie
     "Backend Development" : 35
     "Database Design" : 10
     "DevOps" : 10
+
+
+<!-- Footer with Flowers -->
+<div align="center">
+  <img src="https://i.imgur.com/9E6Q3yK.png" width="100%" height="30px"/>
+  <p>Thank you for visiting my profile! Have a wonderful day! 💖</p>
+  <img src="https://komarev.com/ghpvc/?username=YousraHamdan&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
+</div>
