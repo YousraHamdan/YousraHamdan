@@ -50,7 +50,7 @@
 
 ---
 
-## � My Digital Playground
+## 🌟 My Digital Playground
 
 ### 🔥 Featured Projects
 
@@ -66,27 +66,28 @@
 
 ---
 
-## 🌟 My Coding Journey
-mermaid
-Copy
-Edit
-pie title My Coding Time Distribution
+## 🚀 My Coding Journey
+
+```mermaid
+pie
+    title My Coding Time Distribution
     "Frontend Development" : 45
     "Backend Development" : 35
     "Database Design" : 10
     "DevOps & Deployment" : 10
-## 📈 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YousraHamdan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousraHamdan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraHamdan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1B27%2CFF00FF" alt="GitHub Streak" /> </div>
-## 🎨 My Development Process
-mermaid
-Copy
-Edit
-graph TD
-    A[Ideation] --> B(Design)
-    B --> C{Development}
-    C --> D[Testing]
-    D --> E[Deployment]
-    E --> F[Feedback]
-    F --> A
+
 ## 🤝 Let's Create Something Amazing!
-<div align="center"> <a href="https://www.buymeacoffee.com/" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" /> </a> <a href="https://ko-fi.com/" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" /> </a> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YousraHamdan&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/YousraHamdan?label=Followers&style=social"> </p> <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" /> </div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/yourusername" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YousraHamdan&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YousraHamdan?label=Followers&style=social">
+</p>
