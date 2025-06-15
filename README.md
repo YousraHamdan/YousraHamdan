@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=✨+Yousra+Hamdan;💻+Full-Stack+Developer;🚀+Digital+Creator;🔥+Code+Enthusiast" alt="Typing Animation" />
-</h1>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+digital+reality;Building+scalable+solutions+with+passion;Continuous+learner+and+problem+solver;Open+to+collaborations+and+new+challenges" alt="Typing Subtitle" />
